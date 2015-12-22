@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Instamojo</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="title_activity_details">Details</string>
+
+    <string name="main_activity">Welcome</string>
+    <string name="action_logout">Logout</string>
+    <string name="network_disconnected">Not connected to internet. Please check connection settings</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_username">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="action_update">Update</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_login_failed">Login/Register Failed! Please try again</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+</resources>
